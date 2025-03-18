@@ -10,6 +10,9 @@ def insertion_sort (data):
         data[j + 1] = key
     return data
 
+#siemanko
+
+
 #def shell_sort():
 #    
 #def selection_sort():
